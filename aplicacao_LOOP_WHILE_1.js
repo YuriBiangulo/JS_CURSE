@@ -19,4 +19,5 @@ while (indice < filaTransacoes.length) {
         } else {
         indice++;
     }
-}                                           
+}    
+                                       
