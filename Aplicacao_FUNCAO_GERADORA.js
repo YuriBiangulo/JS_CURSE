@@ -51,3 +51,4 @@ while (!(log = geradorDeLogs.next().done)) {    //um loop infinito que rodara at
   console.log(log.value); // Processa cada log e printa na tela pela propriedade value
   //podemos utilizar esses logs salvando em um banco de dados ou utilizar pra atualizar um dashboard
 }
+// ataualizado
